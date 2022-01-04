@@ -16,7 +16,7 @@ Simple CLI which allows you to receive news depending on the parameters passed t
 **Examples:**\
 ./web-aggregator get -lang "en" -kwords "usa"\
 ./web-aggregator get -lang "ru" -kwords "биткоин майнинг"\
-./web-aggregator get -lang "ru" -country "ua" -cat "entertainment"
+./web-aggregator get -lang "ru" -country "ua" -category "entertainment"
                                                     
 **Response example:**\
 {\
